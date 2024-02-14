@@ -4,8 +4,8 @@
 // @version      2024-02-14
 // @description  Hide WT notification
 // @author       You
-// @match        https://dev.bds.bob.io/
-// @match        https://pre.bds.bob.io/
+// @match        https://dev.bds.bob.io/*
+// @match        https://pre.bds.bob.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bob.io
 // @grant        none
 // ==/UserScript==
